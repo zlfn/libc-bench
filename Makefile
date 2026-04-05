@@ -7,7 +7,7 @@
 #   make clean              # clean build artifacts
 #
 # Environment variables:
-#   LLVM_PROJECT_DIR  - path to llvm-project checkout (default: ~/Main/llvm-project)
+#   LLVM_PROJECT_DIR  - path to llvm-project checkout
 #   OPT               - optimization level (default: -O2)
 
 ifndef LLVM_PROJECT_DIR
